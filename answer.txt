@@ -1,0 +1,20 @@
+1. 
+The main purpose of keys is to help React differentiate and distinguish elements from each other, 
+increasing its performance when diffing between the virtual and real DOM. 
+
+2.
+The useEffect Hook allows you to perform side effects in your components. 
+Some examples of side effects are: fetching data, directly updating the DOM, and timers. 
+useEffect accepts two arguments. The second argument is optional.
+
+3.
+The setState() method enqueues all of the updates made to the component state 
+and instructs React to re-render the component 
+and its children with the updated state
+
+4.
+Role-Based Access Control (JWT)
+
+5.
+Node Package Manager (NPM) is a command line tool that installs, updates or uninstalls Node. js packages in your application. Control version...
+
